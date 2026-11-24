@@ -78,7 +78,20 @@ Backend support and validation scope are documented in the guides above.
   }
   ```
 
-- **Unified communication modeling.** Citation pending public release.
+- **Unified communication modeling.** If you use Uni³Sim's communication models, please cite [our paper](https://arxiv.org/abs/2611.30191) (to appear at HPCA 2027).
+
+  ```bibtex
+  @misc{zhu2026makingprotocoleffectsexplicit,
+    title = {Making Protocol Effects Explicit: {LLM}-to-Packet Simulation for Superpod Interconnect Exploration},
+    author = {Yu Zhu and Xinhao Yang and Zhaoshi Li and Baodong Wu and Boxun Li and Wenxue Li and Guohao Dai and Hongyang Jia and Shuwen Deng and Huazhong Yang and Yuan Xie and Zhenhua Zhu and Yu Wang},
+    year = {2026},
+    eprint = {2611.30191},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.AR},
+    url = {https://arxiv.org/abs/2611.30191}
+  }
+  ```
+
 - **Unified memory-system modeling.** Citation pending public release.
 
 ### Acknowledgements
